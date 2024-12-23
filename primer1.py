@@ -29,7 +29,7 @@ while True:
     elif choice == "3":
         deletion.delete_a_car() 
     elif choice == "4":
-        pass
+        print("This is test branch!")
     elif choice.upper() == "Q":
         import sys
         sys.exit()
